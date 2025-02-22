@@ -1,0 +1,3 @@
+//pyside6-uic main.ui -o ui_main.py 
+//pyinstaller -F -n MIDIRearrange_cmd MIDIRearrange.py
+//pyinstaller -F -w -n MIDIRearrange_window qt_main.py
